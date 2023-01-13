@@ -8,7 +8,7 @@ Hola! Soy Miguel Martínez Martínez, estudiante de diseño y desarrollo de vide
 
 **Competencias**
 
-Mi punto fuerte es la programación, aunque también tengo conocimientos de ilustración, modelado 3D, narrativa (como creación de guías y Ten Pages) y diseño conceptual para videojuegos (GDD). Durante el grado he aprendido diversos lenguajes de programación. Me manejo bien con todos ellos, aunque he terminado trabajando más con unos que con otros.
+Mi punto fuerte es la programación, aunque también tengo conocimientos de ilustración, modelado 3D, narrativa (como creación de guiones y Ten Pages) y diseño conceptual para videojuegos (GDD). Durante el grado he aprendido diversos lenguajes de programación. Me manejo bien con todos ellos, aunque he terminado trabajando más con unos que con otros.
 
 | Rank | Languages |
 |-----:|-----------|
