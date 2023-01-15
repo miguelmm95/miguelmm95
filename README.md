@@ -2,7 +2,7 @@
 
 **[ESP]**
 
-**¿Quien soy?**
+**¿Quién soy?**
 
 Hola! Soy Miguel Martínez Martínez, estudiante de diseño y desarrollo de videojuegos en la universidad Jaume Primer de Castellón de la Plana. Desde pequeño me apasionan los videojuegos y a medida que jugaba y crecía empecé a ver este medio como algo más que puro entretenimiento y más como un medio artístico y de expresión.
 
@@ -17,7 +17,7 @@ Mi punto fuerte es la programación, aunque también tengo conocimientos de ilus
 |3|Python|
 |4|Kotlin|
 |5|SQL|
-|6|HTML+CSS|
+|6|HTML5+CSS3|
 
 Por otra parte, también me manejo con Unity 2D y 3D, y estoy aprendiendo por mi cuenta Unreal Engine 5.
 
