@@ -21,7 +21,7 @@ Mi punto fuerte es la programación, aunque también tengo conocimientos de ilus
 
 Por otra parte, también me manejo con Unity 2D y 3D, y estoy aprendiendo por mi cuenta Unreal Engine 5.
 
-Si deseas saber más en detalle sobre mis competencias te dejo aquí mi [curriculum vitae](https://drive.google.com/file/d/1Cn16an42YSRHGHUEcLX5FDqDaU_LMB0r/view?usp=share_link).
+Si deseas saber más en detalle sobre mis competencias te dejo aquí mi [curriculum vitae]([https://drive.google.com/file/d/1Cn16an42YSRHGHUEcLX5FDqDaU_LMB0r/view?usp=share_link](https://drive.google.com/file/d/1Y7t6wnoi5JTlOrZ8utM2jQyh1wb4MeAE/view?usp=sharing)).
 
 **Repositorios**
 
