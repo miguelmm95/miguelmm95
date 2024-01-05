@@ -4,7 +4,7 @@
 
 **¿Quién soy?**
 
-Hola! Soy Miguel Martínez Martínez, estudiante de diseño y desarrollo de videojuegos en la universidad Jaume Primer de Castellón de la Plana. Desde pequeño me apasionan los videojuegos y a medida que jugaba y crecía empecé a ver este medio como algo más que puro entretenimiento y más como un medio artístico y de expresión.
+Hola! Soy Miguel Martínez Martínez, graduado en diseño y desarrollo de videojuegos en la universidad Jaume Primer de Castellón de la Plana. Desde pequeño me apasionan los videojuegos y a medida que jugaba y crecía empecé a ver este medio como algo más que puro entretenimiento y más como un medio artístico y de expresión.
 
 **Competencias**
 
@@ -31,7 +31,7 @@ En los repositorios que tengo publicos podras encontrar diversos proyectos de cl
 
 **Who am I?**
 
-Hi! I'm Miguel Martínez Martínez, student of video game design and development at the Jaume Primer University in Castellón de la Plana. Since I was a child I have been passionate about video games and as I played and growing up I began to see this medium as something more than pure entertainment and more as a medium for art and expression.
+Hi! I'm Miguel Martínez Martínez, graduate in video game design and development at the Jaume Primer University in Castellón de la Plana. Since I was a child I have been passionate about video games and as I played and growing up I began to see this medium as something more than pure entertainment and more as a medium for art and expression.
 
 **Skills**
 
